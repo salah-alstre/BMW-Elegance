@@ -15,7 +15,7 @@ A captivating trailer showcasing the latest BMW models, highlighting their desig
 - CSS
 
 
-![Image](https://github.com/salah-alstre/ev-bmw/blob/main/src/assets/bmw-love.jpg)
+![Image](https://github.com/salah-alstre/BMW-Elegance/blob/main/assets/Bmw-M.jpg)
 
 
 ## Installation
