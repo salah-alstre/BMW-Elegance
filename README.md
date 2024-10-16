@@ -13,8 +13,7 @@ A captivating trailer showcasing the latest BMW models, highlighting their desig
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (if applicable)
-- Git & GitHub
+
 
 ![Image](https://github.com/salah-alstre/ev-bmw/blob/main/src/assets/bmw-love.jpg)
 
@@ -22,7 +21,9 @@ A captivating trailer showcasing the latest BMW models, highlighting their desig
 ## Installation
 To view the project, clone this repository and open `index.html` in your web browser.
 
+
 git clone https://github.com/salah-alstre/BMW-Elegance.git
+
 cd BMW-Elegance
 
 ## Usage
