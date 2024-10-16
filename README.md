@@ -21,10 +21,13 @@ A captivating trailer showcasing the latest BMW models, highlighting their desig
 ## Installation
 To view the project, clone this repository and open `index.html` in your web browser.
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/salah-alstre/BMW-Elegance.git
 
-git clone https://github.com/salah-alstre/BMW-Elegance.git
+2. Navigate to the project directory:
 
-cd BMW-Elegance
+       cd BMW-Elegance
 
 ## Usage
 Simply open the `index.html` file in your browser to view the trailer. Navigate through the sections to explore more.
